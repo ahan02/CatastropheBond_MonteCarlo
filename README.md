@@ -34,4 +34,6 @@ To get the time zero price of the CAT bond, we employ the discounted cash flow t
 
 ### Acknowledgement
 This project was jointly done during graduate study at DePaul University with Matthew Glascock & 
-I'd like to Thank to Matthew for ideas and methdology development
+I'd like to Thank to Matthew for ideas and methdology development. 
+Matt's LinkedIn: https://www.linkedin.com/in/matthew-glascock-62034750/
+
